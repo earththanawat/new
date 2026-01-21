@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+    <identifier>pwp.1590.1590.1</identifier>
+    <sender>everbridge</sender>
+    <sent>2026-01-21T10:43:48+07:00</sent>
+    <status>Actual</status>
+    <msgType>Alert</msgType>
+    <scope>Public</scope>
+    <note>DBGF bypass</note>
+    <info>
+        <language>th-TH</language>
+        <category>Safety</category>
+        <event>PRA</event>
+        <urgency>Immediate</urgency>
+        <severity>Extreme</severity>
+        <certainty>Observed</certainty>
+        <effective>2026-01-21T10:43:48+07:00</effective>
+        <expires>2026-01-22T16:53:48+07:00</expires>
+        <senderName>A separate group for Raydant to support DDPM.</senderName>
+        <headline>ปภ.ทดสอบแจ้งเตือนระดับประเทศ (Nationwide Test)</headline>
+        <instruction>20-01-2026 16:40:02 ทดสอบแจ้งเตือนภัย ไม่ใช่สถานการณ์จริง
+            จากกรมป้องกันและบรรเทาสาธารณภัย (ปภ.) โปรดอย่าตื่นตระหนก This is a test message from
+            Department of Disaster Prevention and Mitigation (DDPM), not real situation. No action
+            required. DDPM </instruction>
+        <area>
+            <areaDesc>Alert area</areaDesc>
+            <geocode>
+                <valueName>TH-GEOCODE</valueName>
+                <value>00000</value>
+            </geocode>
+        </area>
+    </info>
+</alert>
