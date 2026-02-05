@@ -9,9 +9,9 @@
     <info>
     <language>th-TH</language>
     <category>Other</category>
-    <event>PRA</event>
+    <event>PRARR</event>
     <urgency>Immediate</urgency>
-    <severity>Severe</severity>
+    <severity>SevereExtreme</severity>
     <certainty>Observed</certainty>
     <effective>2026-01-27T13:00:47+07:00</effective>
     <expires>2026-01-28T18:30:47+07:00</expires>
@@ -56,3 +56,4 @@
         </area>
     </info>
 </alert>
+
