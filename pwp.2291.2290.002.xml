@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+    <identifier>pwp.2291.2290.002</identifier>
+    <sender>everbridge</sender>
+    <sent>2026-08-27T11:04:00+07:00</sent>
+    <status>Actual</status>
+    <msgType>Alert</msgType>
+    <scope>Public</scope>
+    <note>DBGF bypass</note>
+    <info>
+        <language>th-TH</language>
+        <category>Safety</category>
+        <event>ACI</event>
+        <urgency>Immediate</urgency>
+        <severity>Extreme</severity>
+        <certainty>Observed</certainty>
+        <effective>2026-08-27T11:04:00+07:00</effective>
+        <expires>2026-08-27T12:04:00+07:00</expires>
+        <senderName>For CAP input test</senderName>
+        <headline>ปภ.เตือนฝนตกหนัก</headline>
+        <instruction>26-08-2026 22:16:33 ในพื้นที่ อ.เมืองแม่ฮ่องสอน และ อ.ปาย มีฝนตกต่อเนื่อง ระวังน้ำท่วมฉับพลัน น้ำป่าไหลหลาก ดินโคลนถล่ม ในพื้นที่ลุ่มต่ำและที่ลาดเชิงเขา โดยเฉพาะ ต.หมอกจำแป่ ต.ห้วยผา ต.ปางหมู อ.เมืองแม่ฮ่องสอน/ ต.โป่งสา อ.ปาย และพื้นที่ใกล้เคียง ให้ยกของขึ้นที่สูง เคลื่อนย้ายรถ เก็บทรัพย์สินมีค่าและเอกสารสำคัญ ระวังไฟฟ้าดูด ดูแลกลุ่มเปราะบาง DDPM</instruction>
+        <area>
+            <areaDesc>ทั่วประเทศ</areaDesc>
+            <geocode>
+                <valueName>TH-GEOCODE</valueName>
+                <value>00000</value>
+            </geocode>
+        </area>
+    </info>
+</alert>
